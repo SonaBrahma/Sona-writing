@@ -7,7 +7,6 @@ You are the product manager, and before you get to work, you need to figure out 
 Define the role of a product manager and create a list of skills required for the product manager working in the given scenario.
 
 Defining Product manager role:
-![Heavy auto mobile](C:\Users\sonaa\OneDrive\Pictures\Screenshots)
 
 Risks:
 • Technical feasibility risk: AI fuel optimization may not perform reliably under diverse real-world conditions (weather, terrain, load weight).
