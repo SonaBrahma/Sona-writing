@@ -5,9 +5,7 @@ You are a product manager at Heavy Auto Manufacturer, Inc., working on a new AI 
 The CEO asks the VP of product development to develop a product that will help the company stand out from the competition. He’s friends with some professors at the state college, and they have been working on AI technology that enables automated controls. The first area they want to target is the fuel system. The idea is to reduce fuel consumption and regulate the amount of fuel the truck needs based on current conditions rather than a constant supply of fuel. The AI system would inform the driver how to steer the vehicle based on conditions and have a feature where the system takes more control. They have discussed the possibility of testing the system on their trucks and possibly integrating it into their systems, depending on how the testing goes. If it is a success, Heavy Auto Manufacturer, Inc. has a chance to lead the market for AI and trucks.
 You are the product manager, and before you get to work, you need to figure out what’s needed to get the project off the ground. You will be responsible for the product level and have the opportunity to work with another senior product manager who thinks more at a strategic level.
 Define the role of a product manager and create a list of skills required for the product manager working in the given scenario.
-
 Defining Product manager role:
-
 Risks:
 • Technical feasibility risk: AI fuel optimization may not perform reliably under diverse real-world conditions (weather, terrain, load weight).
 • Safety risk: Automated fuel and steering controls could malfunction, leading to accidents or liability issues.
@@ -15,7 +13,6 @@ Risks:
 • Market adoption risk: Truck drivers and fleet operators may resist trusting AI-driven fuel systems.
 • Integration risk: Difficulty in integrating AI systems with existing truck hardware/software platforms.
 • Competitive risk: Rivals may release similar AI features faster, reducing differentiation.
-
 Challenges:
 • Balancing innovation with safety: Ensuring AI features are groundbreaking yet safe and compliant.
 • Cross-functional alignment: Coordinating engineers, AI researchers, and manufacturing teams with different priorities.
@@ -23,14 +20,12 @@ Challenges:
 • Change management: Convincing stakeholders (drivers, fleet managers, regulators) of the benefits of AI fuel optimization.
 • Testing complexity: Designing robust pilot programs across varied geographies and truck models.
 • Scalability: Moving from prototype to mass production without compromising quality.
-
 Rewards:
 • Market leadership: Positioning Heavy Auto Manufacturer, Inc. as a pioneer in AI-driven trucking.
 • Competitive advantage: Differentiating products with unique AI fuel optimization features.
 • Cost savings for customers: Reduced fuel consumption translates into strong customer ROI.
 • Professional growth: Opportunity to lead a cutting-edge AI product in a high-impact industry.
 • Innovation recognition: Potential industry awards, media coverage, and academic partnerships.
-
 Scope of work:
 • Product definition: Translate CEO’s vision into clear product requirements and roadmap.
 • Requirement gathering: Work with AI researchers and engineers to define technical specs.
@@ -38,7 +33,6 @@ Scope of work:
 • Testing & validation: Oversee pilot programs, collect feedback, and refine product.
 • Go-to-market planning: Collaborate with marketing and sales to position the product.
 • Lifecycle management: Monitor product performance post-launch and iterate improvements.
-
 People you will collaborate with:
 • Senior Product Manager: Strategic guidance and alignment with company goals.
 • AI Researchers (State College): Technical expertise in AI algorithms and modeling.
@@ -47,7 +41,6 @@ People you will collaborate with:
 • Regulatory Experts: Compliance with transportation and safety standards.
 • Drivers & Fleet Managers: End-user feedback and adoption insights.
 • Marketing & Sales Teams: Positioning, branding, and customer education.
-
 Skills required:
 • Technical & Analytical Skills.
 • AI/ML fundamentals.
