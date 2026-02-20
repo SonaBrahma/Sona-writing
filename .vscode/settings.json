@@ -1,8 +1,0 @@
-{
-    "editor.linkedEditing": true,
-    "emmet.triggerExpansionOnTab": true,
-    "html.format.indentHandlebars": true,
-    "html.format.extraLiners": "",
-    "html.format.indentInnerHtml": true,
-    "html.format.templating": true
-}
